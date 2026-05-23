@@ -1,0 +1,6 @@
+{
+  "name": "موتو إكس | MOTORX",
+  "description": "صالة العرض الرقمية المتكاملة لتصفح ومقارنة وحجز الدراجات النارية الفاخرة بالطابع الفني الحديث وبدعم الذكاء الاصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
